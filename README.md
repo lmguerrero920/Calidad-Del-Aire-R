@@ -41,3 +41,9 @@ Cuando el “contaminante” es el dióxido de carbono, CO2 , y el espacio está
 , dónde E es ahora la tasa de generación de CO2  por persona, ya que el CO2  es un producto de la exhalación en el proceso de la respiración humana. En términos generales, se estima que un adulto realizando actividades de oficina genera 20 litros de CO2  por hora.![download](https://user-images.githubusercontent.com/52765474/216083828-05edd4b6-1f0a-4848-a114-81d30ece9ec6.png)
 
 Figura 1. Esquema de entradas y salidas de un contaminante de interiores en un compartimento simple
+
+
+
+Referencia:
+
+Ramos, H.S.;Magaña, V.E. & Carrera, V.J.M. (2015). Introducción a la Modelación del Agua, del Aire y del Transporte de Contaminantes en el Suelo. Universidad Juárez Autónoma de Tabasco. Villahermosa, Tabasco, México. 128 p.
